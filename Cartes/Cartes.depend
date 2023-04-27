@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1669798598 source:c:\users\dtaylan\documents\c++\cartes\sp_cartes.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<random>
+	<string>
+	"sp_cartes.h"
+
+1669798622 source:c:\users\dtaylan\documents\c++\cartes\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<random>
+	<string>
+	"sp_cartes.h"
+
+1669798584 c:\users\dtaylan\documents\c++\cartes\sp_cartes.h
+	<string>
+	<iostream>
+
